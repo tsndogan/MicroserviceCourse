@@ -20,5 +20,21 @@
         "StatusCode": 200
       }
     ]
+  },
+  {
+    "ContainingType": "UdemyNewMicroservice.Catalog.Api.Features.Categories.GetAll.GetAllCategoryEndpoint\u002B\u003C\u003Ec",
+    "Method": "\u003CGetAllCategoryItemEndpoint\u003Eb__0_0",
+    "RelativePath": "api/categories/",
+    "HttpMethod": "GET",
+    "IsController": false,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      }
+    ]
   }
 ]
