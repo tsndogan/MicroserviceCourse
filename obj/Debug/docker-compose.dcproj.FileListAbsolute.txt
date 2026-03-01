@@ -1,0 +1,1 @@
+C:\Users\Dogan\Desktop\yenicsharp\UdemyNewMicroservice\obj\Debug\docker-compose.dcproj.CoreCompileInputs.cache
