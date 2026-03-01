@@ -57,3 +57,8 @@ C:\Users\Dogan\Desktop\yenicsharp\UdemyNewMicroservice\UdemyNewMicroservice.Cata
 C:\Users\Dogan\Desktop\yenicsharp\UdemyNewMicroservice\UdemyNewMicroservice.Catalog.Api\bin\Debug\net8.0\Refit.HttpClientFactory.dll
 C:\Users\Dogan\Desktop\yenicsharp\UdemyNewMicroservice\UdemyNewMicroservice.Catalog.Api\bin\Debug\net8.0\UdemyNewMicroservice.Shared.dll
 C:\Users\Dogan\Desktop\yenicsharp\UdemyNewMicroservice\UdemyNewMicroservice.Catalog.Api\bin\Debug\net8.0\UdemyNewMicroservice.Shared.pdb
+C:\Users\Dogan\Desktop\yenicsharp\UdemyNewMicroservice\UdemyNewMicroservice.Catalog.Api\obj\Debug\net8.0\UdemyNewMicroservice.Catalog.Api.sourcelink.json
+C:\Users\Dogan\Desktop\yenicsharp\UdemyNewMicroservice\UdemyNewMicroservice.Catalog.Api\bin\Debug\net8.0\FluentValidation.dll
+C:\Users\Dogan\Desktop\yenicsharp\UdemyNewMicroservice\UdemyNewMicroservice.Catalog.Api\bin\Debug\net8.0\FluentValidation.AspNetCore.dll
+C:\Users\Dogan\Desktop\yenicsharp\UdemyNewMicroservice\UdemyNewMicroservice.Catalog.Api\bin\Debug\net8.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\Dogan\Desktop\yenicsharp\UdemyNewMicroservice\UdemyNewMicroservice.Catalog.Api\bin\Debug\net8.0\AutoMapper.dll

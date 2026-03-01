@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("UdemyNewMicroservice.Catalog.Api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+702233a6c938c5d9d717fdb73d68b1dbeae4717d")]
 [assembly: System.Reflection.AssemblyProductAttribute("UdemyNewMicroservice.Catalog.Api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("UdemyNewMicroservice.Catalog.Api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
